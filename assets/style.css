@@ -1,0 +1,249 @@
+* {
+    text-align: center;
+    font-weight: normal;
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    color: black;
+    background-image: url('back.jpg');
+    background-position: auto;
+    background-size: cover;
+    height: 98vh;
+    width: 98vw;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.upper_content {
+    margin: auto;
+    display: block;
+    position: absolute;
+    padding: 95px;
+    padding-left: 385px;
+    padding-bottom: 100px;
+    background-position: auto;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #ffffff10;
+    padding: 10px 10px;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-family: comic sans ms;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 20px;
+    border-radius: 4px;
+}
+
+.header a:hover {
+    background-color: #D43EAB;
+    color: black;
+}
+
+.header-right {
+    
+    float: right;
+    top: 0px;
+}
+
+.header_left {
+    top: 5px;
+    font-size: 24px;
+    color: #ffffff;
+    font-family: Comic sans MS;
+    float: left;
+}
+
+h1 {
+    margin: auto;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    color: #ffffff;
+}
+
+hr {
+    border: 6px dotted #FFCAD9;
+    border-bottom: none;
+    width: 4%;
+    margin: 80px auto;
+}
+
+h2 {
+    font-family: "Montserrat", Comic sans MS;
+    text-decoration: underline;
+    text-decoration: solid;
+    text-align: center;
+    padding-top: 15vh;
+    margin: auto;
+}
+
+.middle_content {
+    padding-top: 97vh;
+    overflow: hidden;
+    margin: auto;
+}
+
+.info {
+    align-items: center;
+}
+
+td {
+    font-family: Comic sans ms;
+    font-size: 28px;
+    text-decoration: solid;
+}
+
+pre {
+    align-items: center;
+    text-align: left;
+    font-family: comic sans ms;
+    font-size: 16px;
+    background-color: #FFCAD9;
+    border-radius: 12px;
+    margin: auto;
+}
+
+.Intro {
+    display: inline-block;
+    padding-right: 15vw;
+    margin: auto;
+}
+
+.skills {
+    text-align: left;
+}
+
+.Profile {
+    margin: auto;
+    float: left;
+}
+
+.Footer-center {
+    background-color: maroon;
+    padding: 50px 0 20px;
+}
+
+.Button_contact {
+    background: #11cdd4;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: Arial;
+    width: 139px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 21px;
+    text-shadow: black;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    margin: 38px auto 50px auto;
+}
+
+.linked {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.Contact_me {
+    text-align: center;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 1rem;
+    padding: 20px 0;
+}
+
+.Button_CV {
+    background: #ff4e33;
+    border-radius: 8px;
+    color: #ffffff;
+    font-family: Arial;
+    width: 139px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 21px;
+    text-shadow: black;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    margin: 38px auto 50px auto;
+}
+
+.Lefty {
+    text-align: LEft;
+    display: inline-block;
+    background-color: #FFCAD9;
+    border-radius: 12px;
+}
+
+.cont {
+    text-align: left;
+    padding-left: 15vw;
+    padding: auto;
+}
+
+.Righty {
+    text-align: left;
+    display: inline-block;
+    background-color: #FFCAD9;
+    border-radius: 12px;
+}
+
+.Naanaa {
+    font-family: comic sans ms;
+    font-size: 24px;
+    text-align: left;
+}
+
+.cont2 {
+    padding-top: 20vh;
+    text-align: right;
+    padding-right: 15vw;
+    padding: auto;
+}
+
+.SSI {
+    padding-left: 30vw;
+    border-radius: 20px;
+}
+
+.SSI2 {
+    padding-Right: 30vw;
+    border-radius: 20px;
+}
+
+.ss {
+    font-family: Comic sans ms;
+    text-align: left;
+    padding-bottom: 2vh;
+    color: black;
+    font-size: 38px;
+}
+
+.ss2 {
+    font-family: Comic sans ms;
+    text-align: Right;
+    padding-bottom: 2vh;
+    color: black;
+    font-size: 38px;
+}

@@ -1,0 +1,29 @@
+h1 {
+    align-items: stretch;
+    color: #F27877;
+    font-family: Comic sans MS;
+}
+
+table {
+    border-spacing: 5px;
+    border-radius: 10px;
+    border-collapse: collapses;
+}
+
+td {
+    border: none;
+}
+
+th {
+    border: none;
+}
+
+#styletable {
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+body {
+    background-color: #EBFFFB;
+}
